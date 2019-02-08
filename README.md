@@ -2,6 +2,8 @@
 
 Selenium WebDriver with Python 3.x
 
+Ubuntu 16.04 desktop
+
 Python 3.5.2 |Anaconda 4.2.0 (64-bit)
 
 Selenium 3.141.0
